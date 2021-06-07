@@ -1,6 +1,4 @@
-style>
-	body{
-		text-align: center;
-		background-image: url(download.jpg);
-	}
-</style>
+body{
+    text-align: center;
+    background-image: url(cover.jpg);
+}
